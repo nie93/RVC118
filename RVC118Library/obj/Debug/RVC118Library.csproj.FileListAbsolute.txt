@@ -1,0 +1,8 @@
+C:\Users\niezj\Documents\dom\RVC118\Deploy\Debug\Model\UserDefinedTypes.ecaidl
+C:\Users\niezj\Documents\dom\RVC118\Deploy\Debug\Model\UserDefinedMappings.ecamap
+C:\Users\niezj\Documents\dom\RVC118\Deploy\Debug\RVC118Library.dll
+C:\Users\niezj\Documents\dom\RVC118\Deploy\Debug\RVC118Library.pdb
+C:\Users\niezj\Documents\dom\RVC118\RVC118Library\obj\Debug\RVC118Library.csprojResolveAssemblyReference.cache
+C:\Users\niezj\Documents\dom\RVC118\RVC118Library\obj\Debug\RVC118Library.dll
+C:\Users\niezj\Documents\dom\RVC118\RVC118Library\obj\Debug\RVC118Library.pdb
+C:\Users\niezj\Documents\dom\RVC118\Deploy\Debug\Accord.dll.config
